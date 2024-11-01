@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Chrisjhone09
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Structures and Algorithm
-- 💞️ I’m looking to collaborate on my capstone project
-- 😄 Pronouns: Him/His/He
-
-<!---
-Chrisjhone09/Chrisjhone09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"I'm a student passionate about web development, focusing on both backend with ASP.NET Core and frontend with Angular.
+I'm eager to deepen my skills in building full-stack applications and learning how to create secure, efficient, and dynamic web solutions."
